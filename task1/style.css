@@ -27,8 +27,7 @@ main {
 }
 
 .image {
-	width: 280px;
-	padding-top: 140px;
+	padding-top: 150px;
 	margin: 10px;
 	background-position: bottom;
 	background-size: cover;
@@ -61,6 +60,7 @@ main {
 	.box {
 		float: none;
 		margin: 0 auto;
+		width: 90%;
 	}
 	.box:nth-child(2) {
 		margin-top: 20px;
@@ -70,7 +70,7 @@ main {
 		margin: 0 auto;
 	}
 	.image {
-
+		padding-top: 40%;
 	}
 
 }
